@@ -1,7 +1,7 @@
 import json
 import os
 import sys
-from logger import logger
+from .logger import logger
 
 SETTINGS = {
     "ip": "192.168.1.1",
